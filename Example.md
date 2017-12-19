@@ -1,4 +1,4 @@
-Exemlple:
+Example:
 
 1. Set a Match (Game) :
 "Marseille-Paris"
@@ -44,4 +44,4 @@ Result :
 "Marseille-Paris" : "2-3"
 "Lyon-Monaco" : "2-3"
 
-#TO DO:
+# TO DO:
