@@ -1,5 +1,6 @@
-Example:
+# Example:
 
+## Set your Games 
 1. Set a Match (Game) :
 "Marseille-Paris"
 
@@ -15,7 +16,7 @@ Example:
 
 3. Calculate Tickets
 
-Result :
+## Result :
 
 "Marseille-Paris" : "1-1"
 "Lyon-Monaco" : "2-1"
@@ -44,4 +45,3 @@ Result :
 "Marseille-Paris" : "2-3"
 "Lyon-Monaco" : "2-3"
 
-# TO DO:
